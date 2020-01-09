@@ -1,0 +1,1476 @@
+﻿Log file open, 11/07/18 17:24:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: XRM_plugin
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.422866
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin XRmouse
+LogPluginManager: Mounting plugin XRM_content
+LogStreaming: Display: Took  0.123s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Epic/Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.07-17.24.39:260][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.07-17.24.39:260][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.07-17.24.39:271][  0]LogHAL: Display: Platform has ~ 16 GB [17105047552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.07-17.24.39:271][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.07-17.24.39:271][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.07-17.24.39:271][  0]LogInit: Computer: DESKTOP-4NOSAII
+[2018.11.07-17.24.39:272][  0]LogInit: User: KodamaCL
+[2018.11.07-17.24.39:272][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.07-17.24.39:272][  0]LogInit: High frequency timer resolution =3.515625 MHz
+[2018.11.07-17.24.39:272][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.07-17.24.39:272][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.07-17.24.39:272][  0]LogMemory: Process Physical Memory: 101.43 MB used, 101.43 MB peak
+[2018.11.07-17.24.39:272][  0]LogMemory: Process Virtual Memory: 91.93 MB used, 91.93 MB peak
+[2018.11.07-17.24.39:272][  0]LogMemory: Physical Memory: 9579.98 MB used,  6732.67 MB free, 16312.64 MB total
+[2018.11.07-17.24.39:272][  0]LogMemory: Virtual Memory: 4642.18 MB used,  6732.67 MB free, 134217728.00 MB total
+[2018.11.07-17.24.39:359][  0]LogInit: Using OS detected language (en-US).
+[2018.11.07-17.24.39:359][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.07-17.24.39:360][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.07-17.24.39:684][  0]LogStreaming: Display: Took  0.325s to InitEngineTextLocalization.
+[2018.11.07-17.24.39:684][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.07-17.24.39:721][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.07-17.24.39:721][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.07-17.24.39:879][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.07-17.24.39:879][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.07-17.24.39:941][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.07-17.24.39:941][  0]LogD3D11RHI:       6061/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.07-17.24.39:945][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.07-17.24.39:945][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.07-17.24.39:945][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.07-17.24.39:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.07-17.24.39:952][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.07-17.24.39:952][  0]LogWindows: EnumDisplayDevices:
+[2018.11.07-17.24.39:952][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.07-17.24.39:952][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.11.07-17.24.39:952][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.07-17.24.39:953][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.07-17.24.39:953][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.07-17.24.39:953][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.07-17.24.39:953][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.11.07-17.24.39:953][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.11.07-17.24.39:953][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.11.07-17.24.39:980][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.07-17.24.39:991][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.07-17.24.40:088][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Intermediate/Shaders/WorkingDirectory/14556/).
+[2018.11.07-17.24.40:088][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kodama-CL/AppData/Local/Temp/UnrealShaderWorkingDir/2BEC72F9433B2ECE2DFD278D99C0EE27/'.
+[2018.11.07-17.24.40:295][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.07-17.24.40:306][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.07-17.24.40:319][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.07-17.24.40:331][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.07-17.24.40:344][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.07-17.24.40:356][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.07-17.24.40:368][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.07-17.24.40:381][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.07-17.24.40:388][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.07-17.24.40:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:466][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.07-17.24.40:468][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.07-17.24.40:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.07-17.24.40:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.07-17.24.40:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.07-17.24.40:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.07-17.24.40:566][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.07-17.24.40:577][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.07-17.24.40:590][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.07-17.24.40:601][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.07-17.24.40:610][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.07-17.24.40:610][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.07-17.24.40:694][  0]LogXGEController: Cleaning working directory: C:/Users/Kodama-CL/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.07-17.24.40:694][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.07-17.24.40:694][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.07-17.24.40:694][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.07-17.24.41:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.07-17.24.41:375][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Kodama-CL/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.07-17.24.41:375][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kodama-CL/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.07-17.24.41:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.07-17.24.41:376][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.07-17.24.41:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.07-17.24.41:376][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.07-17.24.41:387][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.07-17.24.41:400][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kodama-CL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.07-17.24.41:400][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.07-17.24.41:400][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.07-17.24.41:417][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.07-17.24.41:418][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.07-17.24.41:419][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.07-17.24.41:491][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.11.07-17.24.41:791][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.07-17.24.41:912][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.07-17.24.41:917][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.07-17.24.41:917][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.07-17.24.41:917][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.07-17.24.41:917][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.07-17.24.41:936][  0]LogNetVersion: XRM_plugin 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 275222512)
+[2018.11.07-17.24.42:368][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.113809 seconds
+[2018.11.07-17.24.42:374][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.07-17.24.42:374][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.07-17.24.42:374][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.07-17.24.43:180][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.07-17.24.43:198][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.07-17.24.43:357][  0]SourceControl: Source control is disabled
+[2018.11.07-17.24.43:357][  0]SourceControl: Source control is disabled
+[2018.11.07-17.24.43:360][  0]SourceControl: Source control is disabled
+[2018.11.07-17.24.43:363][  0]SourceControl: Source control is disabled
+[2018.11.07-17.24.43:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.07-17.24.43:678][  0]LogOcInput: OculusInput pre-init called
+[2018.11.07-17.24.43:740][  0]LogEngine: Initializing Engine...
+[2018.11.07-17.24.43:740][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.07-17.24.43:741][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.07-17.24.43:741][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.07-17.24.43:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.07-17.24.43:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.07-17.24.43:909][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.07-17.24.43:919][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.07-17.24.44:001][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.07-17.24.44:044][  0]LogInit: FAudioDevice initialized.
+[2018.11.07-17.24.44:044][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.07-17.24.44:114][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Kodama-CL/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.07-17.24.44:125][  0]LogInit: Texture streaming: Enabled
+[2018.11.07-17.24.44:144][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.07-17.24.44:152][  0]LogInit: Transaction tracking system initialized
+[2018.11.07-17.24.44:174][  0]BlueprintLog: New page: Editor Load
+[2018.11.07-17.24.44:255][  0]LocalizationService: Localization service is disabled
+[2018.11.07-17.24.44:479][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.07-17.24.44:479][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.07-17.24.44:479][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.07-17.24.44:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.07-17.24.44:479][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.07-17.24.44:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.07-17.24.44:480][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.07-17.24.44:605][  0]LogFileCache: Scanning file cache for directory 'D:/_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Content/' took 0.01s
+[2018.11.07-17.24.44:605][  0]SourceControl: Source control is disabled
+[2018.11.07-17.24.44:605][  0]Cmd: MAP LOAD FILE="../../../../../../_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.07-17.24.44:606][  0]LightingResults: New page: Lighting Build
+[2018.11.07-17.24.44:608][  0]MapCheck: New page: Map Check
+[2018.11.07-17.24.44:608][  0]LightingResults: New page: Lighting Build
+[2018.11.07-17.24.44:887][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.11.07-17.24.44:895][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.07-17.24.44:917][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.07-17.24.44:954][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.962ms to complete.
+[2018.11.07-17.24.44:955][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.349
+[2018.11.07-17.24.45:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.24.45:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.24.45:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.24.45:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.24.45:080][  0]LogCollectionManager: Loaded 0 collections in 0.000916 seconds
+[2018.11.07-17.24.45:129][  0]LogFileCache: Scanning file cache for directory 'D:/_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Saved/Collections/' took 0.01s
+[2018.11.07-17.24.45:129][  0]LogFileCache: Scanning file cache for directory 'D:/_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Content/Developers/KodamaCL/Collections/' took 0.01s
+[2018.11.07-17.24.45:129][  0]LogFileCache: Scanning file cache for directory 'D:/_Kodama/Product/software/xrm_unreal_plugin/unreal_plugin/XRM_plugin/Content/Collections/' took 0.01s
+[2018.11.07-17.24.45:129][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.07-17.24.45:138][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2576 classes and 610 folders.
+[2018.11.07-17.24.45:143][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.07-17.24.45:171][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.07-17.24.45:178][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.07-17.24.45:191][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.07-17.24.45:193][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.07-17.24.45:198][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.07-17.24.45:199][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.07-17.24.45:278][  0]LogRenderer: Reallocating scene render targets to support 1456x524 Format 10 NumSamples 1 (Frame:1).
+[2018.11.07-17.24.45:421][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.07-17.24.45:421][  0]LogLoad: (Engine Initialization) Total time: 7.68 seconds
+[2018.11.07-17.24.45:421][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.07-17.24.45:430][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.07-17.24.45:448][  0]LogAssetRegistry: Asset discovery search completed in 3.9809 seconds
+[2018.11.07-17.24.45:450][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.07-17.24.45:450][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000344 seconds (updated 0 objects)
+[2018.11.07-17.24.45:454][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.07-17.24.55:078][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.07-17.24.55:191][220]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.07-17.24.55:205][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.11.07-17.24.55:206][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.07-17.24.55:220][220]PIE: New page: PIE session: Minimal_Default (7 Nov 2018 17:24:55)
+[2018.11.07-17.24.55:221][220]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.11.07-17.24.55:224][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
+[2018.11.07-17.24.55:226][220]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.11.07-17.24.55:226][220]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.11.07-17.24.55:226][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005735s)
+[2018.11.07-17.24.55:270][220]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.07-17.24.55:286][220]LogInit: FAudioDevice initialized.
+[2018.11.07-17.24.55:331][220]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/XRM_plugin.XRM_pluginGameMode'
+[2018.11.07-17.24.55:331][220]LogLoad: Game class is 'GameModeBase'
+[2018.11.07-17.24.55:333][220]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.11.07-17.24.55
+[2018.11.07-17.24.55:334][220]LogWorld: Bringing up level for play took: 0.001291
+[2018.11.07-17.24.55:351][220]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.07-17.24.55:352][220]LogTemp: Error: Initial Location is: 0
+[2018.11.07-17.24.55:358][220]LogTemp: Error: XR-mouse was found with VID & PID, trying ot get associated COM port...
+[2018.11.07-17.24.55:358][220]LogTemp: Error: Friendly name is  Silicon Labs CP210x USB to UART Bridge (COM22)
+[2018.11.07-17.24.55:359][220]LogTemp: Error: port COM1 exists
+[2018.11.07-17.24.55:536][220]LogTemp: Error: port \\.\COM22 exists
+[2018.11.07-17.24.55:536][220]LogTemp: Error: checking list with port: COM1
+[2018.11.07-17.24.55:537][220]LogTemp: Error: checking list with port: COM22
+[2018.11.07-17.24.55:537][220]LogTemp: Error: Successfully found port  22
+[2018.11.07-17.24.55:540][220]LogTemp: Error: port setup successful
+[2018.11.07-17.24.55:540][220]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.779
+[2018.11.07-17.24.55:541][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.11.07-17.24.55:542][220]LogTemp: byte is: 0.
+[2018.11.07-17.24.55:542][220]LogTemp: Error: sent 1 bytes
+[2018.11.07-17.24.55:542][220]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:605][221]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:620][222]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:629][223]LogTemp: success
+[2018.11.07-17.24.55:637][224]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:662][227]LogTemp: success
+[2018.11.07-17.24.55:670][228]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:697][231]LogTemp: success
+[2018.11.07-17.24.55:705][232]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:730][235]LogTemp: success
+[2018.11.07-17.24.55:738][236]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:764][239]LogTemp: success
+[2018.11.07-17.24.55:772][240]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:797][243]LogTemp: success
+[2018.11.07-17.24.55:805][244]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:830][247]LogTemp: success
+[2018.11.07-17.24.55:838][248]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:864][251]LogTemp: success
+[2018.11.07-17.24.55:872][252]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:897][255]LogTemp: success
+[2018.11.07-17.24.55:905][256]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:930][259]LogTemp: success
+[2018.11.07-17.24.55:938][260]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:963][263]LogTemp: success
+[2018.11.07-17.24.55:971][264]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.55:996][267]LogTemp: success
+[2018.11.07-17.24.56:005][268]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:030][271]LogTemp: success
+[2018.11.07-17.24.56:038][272]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:063][275]LogTemp: success
+[2018.11.07-17.24.56:071][276]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:097][279]LogTemp: success
+[2018.11.07-17.24.56:105][280]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:130][283]LogTemp: success
+[2018.11.07-17.24.56:138][284]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:164][287]LogTemp: success
+[2018.11.07-17.24.56:172][288]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:197][291]LogTemp: success
+[2018.11.07-17.24.56:205][292]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:230][295]LogTemp: success
+[2018.11.07-17.24.56:239][296]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:264][299]LogTemp: success
+[2018.11.07-17.24.56:272][300]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:297][303]LogTemp: success
+[2018.11.07-17.24.56:305][304]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:330][307]LogTemp: success
+[2018.11.07-17.24.56:338][308]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:363][311]LogTemp: success
+[2018.11.07-17.24.56:371][312]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:396][315]LogTemp: success
+[2018.11.07-17.24.56:405][316]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:430][319]LogTemp: success
+[2018.11.07-17.24.56:438][320]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:463][323]LogTemp: success
+[2018.11.07-17.24.56:472][324]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:497][327]LogTemp: success
+[2018.11.07-17.24.56:505][328]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:530][331]LogTemp: success
+[2018.11.07-17.24.56:538][332]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:564][335]LogTemp: success
+[2018.11.07-17.24.56:572][336]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:597][339]LogTemp: success
+[2018.11.07-17.24.56:605][340]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:630][343]LogTemp: success
+[2018.11.07-17.24.56:639][344]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:664][347]LogTemp: success
+[2018.11.07-17.24.56:672][348]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:696][351]LogTemp: success
+[2018.11.07-17.24.56:705][352]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:730][355]LogTemp: success
+[2018.11.07-17.24.56:738][356]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:763][359]LogTemp: success
+[2018.11.07-17.24.56:771][360]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:797][363]LogTemp: success
+[2018.11.07-17.24.56:805][364]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:830][367]LogTemp: success
+[2018.11.07-17.24.56:838][368]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:863][371]LogTemp: success
+[2018.11.07-17.24.56:872][372]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:897][375]LogTemp: success
+[2018.11.07-17.24.56:905][376]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:930][379]LogTemp: success
+[2018.11.07-17.24.56:938][380]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:963][383]LogTemp: success
+[2018.11.07-17.24.56:972][384]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.56:997][387]LogTemp: success
+[2018.11.07-17.24.57:005][388]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:030][391]LogTemp: success
+[2018.11.07-17.24.57:038][392]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:063][395]LogTemp: success
+[2018.11.07-17.24.57:072][396]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:097][399]LogTemp: success
+[2018.11.07-17.24.57:105][400]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:131][403]LogTemp: success
+[2018.11.07-17.24.57:139][404]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:164][407]LogTemp: success
+[2018.11.07-17.24.57:172][408]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:197][411]LogTemp: success
+[2018.11.07-17.24.57:206][412]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:230][415]LogTemp: success
+[2018.11.07-17.24.57:239][416]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:264][419]LogTemp: success
+[2018.11.07-17.24.57:272][420]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:297][423]LogTemp: success
+[2018.11.07-17.24.57:306][424]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:331][427]LogTemp: success
+[2018.11.07-17.24.57:339][428]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:363][431]LogTemp: success
+[2018.11.07-17.24.57:372][432]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:397][435]LogTemp: success
+[2018.11.07-17.24.57:405][436]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:430][439]LogTemp: success
+[2018.11.07-17.24.57:438][440]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:464][443]LogTemp: success
+[2018.11.07-17.24.57:472][444]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:497][447]LogTemp: success
+[2018.11.07-17.24.57:505][448]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:530][451]LogTemp: success
+[2018.11.07-17.24.57:539][452]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:564][455]LogTemp: success
+[2018.11.07-17.24.57:572][456]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:597][459]LogTemp: success
+[2018.11.07-17.24.57:605][460]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:631][463]LogTemp: success
+[2018.11.07-17.24.57:639][464]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:664][467]LogTemp: success
+[2018.11.07-17.24.57:672][468]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:697][471]LogTemp: success
+[2018.11.07-17.24.57:706][472]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:730][475]LogTemp: success
+[2018.11.07-17.24.57:738][476]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:763][479]LogTemp: success
+[2018.11.07-17.24.57:771][480]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:797][483]LogTemp: success
+[2018.11.07-17.24.57:805][484]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:830][487]LogTemp: success
+[2018.11.07-17.24.57:838][488]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:864][491]LogTemp: success
+[2018.11.07-17.24.57:872][492]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:897][495]LogTemp: success
+[2018.11.07-17.24.57:905][496]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:930][499]LogTemp: success
+[2018.11.07-17.24.57:939][500]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:964][503]LogTemp: success
+[2018.11.07-17.24.57:972][504]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.57:997][507]LogTemp: success
+[2018.11.07-17.24.58:005][508]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:031][511]LogTemp: success
+[2018.11.07-17.24.58:039][512]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:064][515]LogTemp: success
+[2018.11.07-17.24.58:072][516]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:097][519]LogTemp: success
+[2018.11.07-17.24.58:105][520]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:130][523]LogTemp: success
+[2018.11.07-17.24.58:138][524]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:163][527]LogTemp: success
+[2018.11.07-17.24.58:172][528]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:197][531]LogTemp: success
+[2018.11.07-17.24.58:205][532]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:230][535]LogTemp: success
+[2018.11.07-17.24.58:238][536]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:264][539]LogTemp: success
+[2018.11.07-17.24.58:272][540]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:297][543]LogTemp: success
+[2018.11.07-17.24.58:305][544]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:330][547]LogTemp: success
+[2018.11.07-17.24.58:339][548]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:364][551]LogTemp: success
+[2018.11.07-17.24.58:372][552]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:397][555]LogTemp: success
+[2018.11.07-17.24.58:406][556]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:431][559]LogTemp: success
+[2018.11.07-17.24.58:439][560]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:464][563]LogTemp: success
+[2018.11.07-17.24.58:473][564]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:497][567]LogTemp: success
+[2018.11.07-17.24.58:505][568]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:530][571]LogTemp: success
+[2018.11.07-17.24.58:538][572]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:563][575]LogTemp: success
+[2018.11.07-17.24.58:572][576]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:597][579]LogTemp: success
+[2018.11.07-17.24.58:605][580]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:630][583]LogTemp: success
+[2018.11.07-17.24.58:639][584]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:664][587]LogTemp: success
+[2018.11.07-17.24.58:672][588]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:697][591]LogTemp: success
+[2018.11.07-17.24.58:705][592]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:731][595]LogTemp: success
+[2018.11.07-17.24.58:739][596]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:764][599]LogTemp: success
+[2018.11.07-17.24.58:772][600]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:797][603]LogTemp: success
+[2018.11.07-17.24.58:806][604]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:831][607]LogTemp: success
+[2018.11.07-17.24.58:839][608]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:863][611]LogTemp: success
+[2018.11.07-17.24.58:872][612]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:897][615]LogTemp: success
+[2018.11.07-17.24.58:905][616]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:930][619]LogTemp: success
+[2018.11.07-17.24.58:938][620]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:964][623]LogTemp: success
+[2018.11.07-17.24.58:972][624]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.58:997][627]LogTemp: success
+[2018.11.07-17.24.59:005][628]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:030][631]LogTemp: success
+[2018.11.07-17.24.59:039][632]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:064][635]LogTemp: success
+[2018.11.07-17.24.59:072][636]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:097][639]LogTemp: success
+[2018.11.07-17.24.59:105][640]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:131][643]LogTemp: success
+[2018.11.07-17.24.59:139][644]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:164][647]LogTemp: success
+[2018.11.07-17.24.59:172][648]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:197][651]LogTemp: success
+[2018.11.07-17.24.59:206][652]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:230][655]LogTemp: success
+[2018.11.07-17.24.59:238][656]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:263][659]LogTemp: success
+[2018.11.07-17.24.59:272][660]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:297][663]LogTemp: success
+[2018.11.07-17.24.59:305][664]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:330][667]LogTemp: success
+[2018.11.07-17.24.59:339][668]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:364][671]LogTemp: success
+[2018.11.07-17.24.59:372][672]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:397][675]LogTemp: success
+[2018.11.07-17.24.59:405][676]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:430][679]LogTemp: success
+[2018.11.07-17.24.59:439][680]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:464][683]LogTemp: success
+[2018.11.07-17.24.59:472][684]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:497][687]LogTemp: success
+[2018.11.07-17.24.59:506][688]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:531][691]LogTemp: success
+[2018.11.07-17.24.59:539][692]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:564][695]LogTemp: success
+[2018.11.07-17.24.59:572][696]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:597][699]LogTemp: success
+[2018.11.07-17.24.59:605][700]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:630][703]LogTemp: success
+[2018.11.07-17.24.59:638][704]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:663][707]LogTemp: success
+[2018.11.07-17.24.59:672][708]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:697][711]LogTemp: success
+[2018.11.07-17.24.59:705][712]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:731][715]LogTemp: success
+[2018.11.07-17.24.59:739][716]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:764][719]LogTemp: success
+[2018.11.07-17.24.59:772][720]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:797][723]LogTemp: success
+[2018.11.07-17.24.59:805][724]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:830][727]LogTemp: success
+[2018.11.07-17.24.59:838][728]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:864][731]LogTemp: success
+[2018.11.07-17.24.59:872][732]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:897][735]LogTemp: success
+[2018.11.07-17.24.59:905][736]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:930][739]LogTemp: success
+[2018.11.07-17.24.59:939][740]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:964][743]LogTemp: success
+[2018.11.07-17.24.59:972][744]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.24.59:997][747]LogTemp: success
+[2018.11.07-17.25.00:006][748]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:031][751]LogTemp: success
+[2018.11.07-17.25.00:039][752]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:064][755]LogTemp: success
+[2018.11.07-17.25.00:072][756]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:097][759]LogTemp: success
+[2018.11.07-17.25.00:105][760]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:131][763]LogTemp: success
+[2018.11.07-17.25.00:139][764]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:164][767]LogTemp: success
+[2018.11.07-17.25.00:172][768]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:197][771]LogTemp: success
+[2018.11.07-17.25.00:206][772]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:231][775]LogTemp: success
+[2018.11.07-17.25.00:239][776]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:263][779]LogTemp: success
+[2018.11.07-17.25.00:272][780]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:297][783]LogTemp: success
+[2018.11.07-17.25.00:305][784]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:330][787]LogTemp: success
+[2018.11.07-17.25.00:339][788]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:364][791]LogTemp: success
+[2018.11.07-17.25.00:372][792]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:397][795]LogTemp: success
+[2018.11.07-17.25.00:406][796]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:431][799]LogTemp: success
+[2018.11.07-17.25.00:439][800]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:464][803]LogTemp: success
+[2018.11.07-17.25.00:472][804]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:497][807]LogTemp: success
+[2018.11.07-17.25.00:505][808]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:531][811]LogTemp: success
+[2018.11.07-17.25.00:539][812]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:564][815]LogTemp: success
+[2018.11.07-17.25.00:573][816]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:597][819]LogTemp: success
+[2018.11.07-17.25.00:605][820]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:630][823]LogTemp: success
+[2018.11.07-17.25.00:639][824]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:664][827]LogTemp: success
+[2018.11.07-17.25.00:672][828]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:698][831]LogTemp: success
+[2018.11.07-17.25.00:706][832]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:730][835]LogTemp: success
+[2018.11.07-17.25.00:738][836]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:764][839]LogTemp: success
+[2018.11.07-17.25.00:772][840]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:797][843]LogTemp: success
+[2018.11.07-17.25.00:805][844]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:830][847]LogTemp: success
+[2018.11.07-17.25.00:838][848]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:863][851]LogTemp: success
+[2018.11.07-17.25.00:872][852]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:897][855]LogTemp: success
+[2018.11.07-17.25.00:906][856]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:931][859]LogTemp: success
+[2018.11.07-17.25.00:939][860]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:963][863]LogTemp: success
+[2018.11.07-17.25.00:972][864]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.00:997][867]LogTemp: success
+[2018.11.07-17.25.01:006][868]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:031][871]LogTemp: success
+[2018.11.07-17.25.01:039][872]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:064][875]LogTemp: success
+[2018.11.07-17.25.01:072][876]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:097][879]LogTemp: success
+[2018.11.07-17.25.01:105][880]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:131][883]LogTemp: success
+[2018.11.07-17.25.01:139][884]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:164][887]LogTemp: success
+[2018.11.07-17.25.01:172][888]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:197][891]LogTemp: success
+[2018.11.07-17.25.01:205][892]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:230][895]LogTemp: success
+[2018.11.07-17.25.01:238][896]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:263][899]LogTemp: success
+[2018.11.07-17.25.01:272][900]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:297][903]LogTemp: success
+[2018.11.07-17.25.01:306][904]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:331][907]LogTemp: success
+[2018.11.07-17.25.01:339][908]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:364][911]LogTemp: success
+[2018.11.07-17.25.01:372][912]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:397][915]LogTemp: success
+[2018.11.07-17.25.01:405][916]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:431][919]LogTemp: success
+[2018.11.07-17.25.01:439][920]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:464][923]LogTemp: success
+[2018.11.07-17.25.01:472][924]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:497][927]LogTemp: success
+[2018.11.07-17.25.01:506][928]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:530][931]LogTemp: success
+[2018.11.07-17.25.01:539][932]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:564][935]LogTemp: success
+[2018.11.07-17.25.01:573][936]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:597][939]LogTemp: success
+[2018.11.07-17.25.01:605][940]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:631][943]LogTemp: success
+[2018.11.07-17.25.01:639][944]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:664][947]LogTemp: success
+[2018.11.07-17.25.01:672][948]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:698][951]LogTemp: success
+[2018.11.07-17.25.01:706][952]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:731][955]LogTemp: success
+[2018.11.07-17.25.01:739][956]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:764][959]LogTemp: success
+[2018.11.07-17.25.01:773][960]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:797][963]LogTemp: success
+[2018.11.07-17.25.01:806][964]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:831][967]LogTemp: success
+[2018.11.07-17.25.01:839][968]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:864][971]LogTemp: success
+[2018.11.07-17.25.01:872][972]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:898][975]LogTemp: success
+[2018.11.07-17.25.01:906][976]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:931][979]LogTemp: success
+[2018.11.07-17.25.01:939][980]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:964][983]LogTemp: success
+[2018.11.07-17.25.01:973][984]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.01:998][987]LogTemp: success
+[2018.11.07-17.25.02:006][988]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:030][991]LogTemp: success
+[2018.11.07-17.25.02:038][992]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:063][995]LogTemp: success
+[2018.11.07-17.25.02:072][996]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:097][999]LogTemp: success
+[2018.11.07-17.25.02:106][  0]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:131][  3]LogTemp: success
+[2018.11.07-17.25.02:139][  4]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:164][  7]LogTemp: success
+[2018.11.07-17.25.02:173][  8]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:198][ 11]LogTemp: success
+[2018.11.07-17.25.02:205][ 12]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:230][ 15]LogTemp: success
+[2018.11.07-17.25.02:238][ 16]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:264][ 19]LogTemp: success
+[2018.11.07-17.25.02:272][ 20]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:297][ 23]LogTemp: success
+[2018.11.07-17.25.02:305][ 24]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:331][ 27]LogTemp: success
+[2018.11.07-17.25.02:339][ 28]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:364][ 31]LogTemp: success
+[2018.11.07-17.25.02:373][ 32]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:397][ 35]LogTemp: success
+[2018.11.07-17.25.02:405][ 36]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:430][ 39]LogTemp: success
+[2018.11.07-17.25.02:438][ 40]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:464][ 43]LogTemp: success
+[2018.11.07-17.25.02:472][ 44]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:497][ 47]LogTemp: success
+[2018.11.07-17.25.02:505][ 48]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:530][ 51]LogTemp: success
+[2018.11.07-17.25.02:539][ 52]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:564][ 55]LogTemp: success
+[2018.11.07-17.25.02:572][ 56]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:597][ 59]LogTemp: success
+[2018.11.07-17.25.02:606][ 60]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:631][ 63]LogTemp: success
+[2018.11.07-17.25.02:639][ 64]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:664][ 67]LogTemp: success
+[2018.11.07-17.25.02:672][ 68]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:698][ 71]LogTemp: success
+[2018.11.07-17.25.02:706][ 72]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:731][ 75]LogTemp: success
+[2018.11.07-17.25.02:739][ 76]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:764][ 79]LogTemp: success
+[2018.11.07-17.25.02:773][ 80]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:797][ 83]LogTemp: success
+[2018.11.07-17.25.02:806][ 84]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:831][ 87]LogTemp: success
+[2018.11.07-17.25.02:839][ 88]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:864][ 91]LogTemp: success
+[2018.11.07-17.25.02:872][ 92]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:897][ 95]LogTemp: success
+[2018.11.07-17.25.02:906][ 96]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:931][ 99]LogTemp: success
+[2018.11.07-17.25.02:939][100]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:964][103]LogTemp: success
+[2018.11.07-17.25.02:972][104]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.02:997][107]LogTemp: success
+[2018.11.07-17.25.03:005][108]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:031][111]LogTemp: success
+[2018.11.07-17.25.03:039][112]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:064][115]LogTemp: success
+[2018.11.07-17.25.03:072][116]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:097][119]LogTemp: success
+[2018.11.07-17.25.03:105][120]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:130][123]LogTemp: success
+[2018.11.07-17.25.03:139][124]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:164][127]LogTemp: success
+[2018.11.07-17.25.03:172][128]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:197][131]LogTemp: success
+[2018.11.07-17.25.03:206][132]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:231][135]LogTemp: success
+[2018.11.07-17.25.03:239][136]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:264][139]LogTemp: success
+[2018.11.07-17.25.03:272][140]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:297][143]LogTemp: success
+[2018.11.07-17.25.03:305][144]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:330][147]LogTemp: success
+[2018.11.07-17.25.03:339][148]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:364][151]LogTemp: success
+[2018.11.07-17.25.03:372][152]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:397][155]LogTemp: success
+[2018.11.07-17.25.03:405][156]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:431][159]LogTemp: success
+[2018.11.07-17.25.03:439][160]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:464][163]LogTemp: success
+[2018.11.07-17.25.03:472][164]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:497][167]LogTemp: success
+[2018.11.07-17.25.03:506][168]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:531][171]LogTemp: success
+[2018.11.07-17.25.03:539][172]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:563][175]LogTemp: success
+[2018.11.07-17.25.03:572][176]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:597][179]LogTemp: success
+[2018.11.07-17.25.03:605][180]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:630][183]LogTemp: success
+[2018.11.07-17.25.03:639][184]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:664][187]LogTemp: success
+[2018.11.07-17.25.03:672][188]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:697][191]LogTemp: success
+[2018.11.07-17.25.03:705][192]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:731][195]LogTemp: success
+[2018.11.07-17.25.03:739][196]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:764][199]LogTemp: success
+[2018.11.07-17.25.03:772][200]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:797][203]LogTemp: success
+[2018.11.07-17.25.03:806][204]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:831][207]LogTemp: success
+[2018.11.07-17.25.03:839][208]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:864][211]LogTemp: success
+[2018.11.07-17.25.03:872][212]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:897][215]LogTemp: success
+[2018.11.07-17.25.03:906][216]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:931][219]LogTemp: success
+[2018.11.07-17.25.03:939][220]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:964][223]LogTemp: success
+[2018.11.07-17.25.03:972][224]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.03:998][227]LogTemp: success
+[2018.11.07-17.25.04:006][228]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:031][231]LogTemp: success
+[2018.11.07-17.25.04:039][232]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:064][235]LogTemp: success
+[2018.11.07-17.25.04:073][236]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:098][239]LogTemp: success
+[2018.11.07-17.25.04:106][240]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:130][243]LogTemp: success
+[2018.11.07-17.25.04:138][244]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:164][247]LogTemp: success
+[2018.11.07-17.25.04:172][248]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:197][251]LogTemp: success
+[2018.11.07-17.25.04:205][252]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:231][255]LogTemp: success
+[2018.11.07-17.25.04:239][256]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:264][259]LogTemp: success
+[2018.11.07-17.25.04:272][260]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:297][263]LogTemp: success
+[2018.11.07-17.25.04:306][264]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:331][267]LogTemp: success
+[2018.11.07-17.25.04:339][268]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:364][271]LogTemp: success
+[2018.11.07-17.25.04:372][272]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:398][275]LogTemp: success
+[2018.11.07-17.25.04:406][276]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:431][279]LogTemp: success
+[2018.11.07-17.25.04:439][280]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:464][283]LogTemp: success
+[2018.11.07-17.25.04:473][284]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:497][287]LogTemp: success
+[2018.11.07-17.25.04:505][288]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:530][291]LogTemp: success
+[2018.11.07-17.25.04:539][292]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:564][295]LogTemp: success
+[2018.11.07-17.25.04:572][296]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:597][299]LogTemp: success
+[2018.11.07-17.25.04:605][300]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:631][303]LogTemp: success
+[2018.11.07-17.25.04:639][304]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:664][307]LogTemp: success
+[2018.11.07-17.25.04:672][308]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:697][311]LogTemp: success
+[2018.11.07-17.25.04:706][312]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:731][315]LogTemp: success
+[2018.11.07-17.25.04:739][316]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:764][319]LogTemp: success
+[2018.11.07-17.25.04:773][320]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:798][323]LogTemp: success
+[2018.11.07-17.25.04:806][324]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:831][327]LogTemp: success
+[2018.11.07-17.25.04:839][328]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:865][331]LogTemp: success
+[2018.11.07-17.25.04:872][332]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:897][335]LogTemp: success
+[2018.11.07-17.25.04:905][336]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:930][339]LogTemp: success
+[2018.11.07-17.25.04:939][340]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:964][343]LogTemp: success
+[2018.11.07-17.25.04:973][344]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.04:997][347]LogTemp: success
+[2018.11.07-17.25.05:005][348]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:031][351]LogTemp: success
+[2018.11.07-17.25.05:039][352]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:064][355]LogTemp: success
+[2018.11.07-17.25.05:073][356]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:098][359]LogTemp: success
+[2018.11.07-17.25.05:105][360]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:130][363]LogTemp: success
+[2018.11.07-17.25.05:139][364]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:164][367]LogTemp: success
+[2018.11.07-17.25.05:172][368]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:197][371]LogTemp: success
+[2018.11.07-17.25.05:205][372]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:231][375]LogTemp: success
+[2018.11.07-17.25.05:239][376]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:264][379]LogTemp: success
+[2018.11.07-17.25.05:272][380]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:297][383]LogTemp: success
+[2018.11.07-17.25.05:306][384]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:331][387]LogTemp: success
+[2018.11.07-17.25.05:339][388]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:364][391]LogTemp: success
+[2018.11.07-17.25.05:373][392]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:398][395]LogTemp: success
+[2018.11.07-17.25.05:406][396]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:431][399]LogTemp: success
+[2018.11.07-17.25.05:439][400]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:465][403]LogTemp: success
+[2018.11.07-17.25.05:473][404]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:497][407]LogTemp: success
+[2018.11.07-17.25.05:505][408]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:530][411]LogTemp: success
+[2018.11.07-17.25.05:539][412]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:564][415]LogTemp: success
+[2018.11.07-17.25.05:572][416]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:597][419]LogTemp: success
+[2018.11.07-17.25.05:605][420]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:631][423]LogTemp: success
+[2018.11.07-17.25.05:639][424]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:664][427]LogTemp: success
+[2018.11.07-17.25.05:672][428]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:698][431]LogTemp: success
+[2018.11.07-17.25.05:706][432]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:731][435]LogTemp: success
+[2018.11.07-17.25.05:739][436]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:764][439]LogTemp: success
+[2018.11.07-17.25.05:773][440]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:798][443]LogTemp: success
+[2018.11.07-17.25.05:806][444]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:831][447]LogTemp: success
+[2018.11.07-17.25.05:840][448]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:864][451]LogTemp: success
+[2018.11.07-17.25.05:872][452]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:897][455]LogTemp: success
+[2018.11.07-17.25.05:905][456]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:931][459]LogTemp: success
+[2018.11.07-17.25.05:939][460]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:964][463]LogTemp: success
+[2018.11.07-17.25.05:972][464]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.05:997][467]LogTemp: success
+[2018.11.07-17.25.06:006][468]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:031][471]LogTemp: success
+[2018.11.07-17.25.06:039][472]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:065][475]LogTemp: success
+[2018.11.07-17.25.06:073][476]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:098][479]LogTemp: success
+[2018.11.07-17.25.06:106][480]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:130][483]LogTemp: success
+[2018.11.07-17.25.06:139][484]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:164][487]LogTemp: success
+[2018.11.07-17.25.06:172][488]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:197][491]LogTemp: success
+[2018.11.07-17.25.06:206][492]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:231][495]LogTemp: success
+[2018.11.07-17.25.06:239][496]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:264][499]LogTemp: success
+[2018.11.07-17.25.06:272][500]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:298][503]LogTemp: success
+[2018.11.07-17.25.06:306][504]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:331][507]LogTemp: success
+[2018.11.07-17.25.06:339][508]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:364][511]LogTemp: success
+[2018.11.07-17.25.06:373][512]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:398][515]LogTemp: success
+[2018.11.07-17.25.06:406][516]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:431][519]LogTemp: success
+[2018.11.07-17.25.06:439][520]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:465][523]LogTemp: success
+[2018.11.07-17.25.06:473][524]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:497][527]LogTemp: success
+[2018.11.07-17.25.06:505][528]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:530][531]LogTemp: success
+[2018.11.07-17.25.06:539][532]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:564][535]LogTemp: success
+[2018.11.07-17.25.06:572][536]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:597][539]LogTemp: success
+[2018.11.07-17.25.06:605][540]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:631][543]LogTemp: success
+[2018.11.07-17.25.06:639][544]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:664][547]LogTemp: success
+[2018.11.07-17.25.06:672][548]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:698][551]LogTemp: success
+[2018.11.07-17.25.06:706][552]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:731][555]LogTemp: success
+[2018.11.07-17.25.06:739][556]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:764][559]LogTemp: success
+[2018.11.07-17.25.06:773][560]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:798][563]LogTemp: success
+[2018.11.07-17.25.06:806][564]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:831][567]LogTemp: success
+[2018.11.07-17.25.06:839][568]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:865][571]LogTemp: success
+[2018.11.07-17.25.06:872][572]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:897][575]LogTemp: success
+[2018.11.07-17.25.06:906][576]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:931][579]LogTemp: success
+[2018.11.07-17.25.06:939][580]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:964][583]LogTemp: success
+[2018.11.07-17.25.06:972][584]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.06:997][587]LogTemp: success
+[2018.11.07-17.25.07:006][588]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:031][591]LogTemp: success
+[2018.11.07-17.25.07:039][592]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:065][595]LogTemp: success
+[2018.11.07-17.25.07:072][596]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:098][599]LogTemp: success
+[2018.11.07-17.25.07:106][600]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:131][603]LogTemp: success
+[2018.11.07-17.25.07:139][604]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:165][607]LogTemp: success
+[2018.11.07-17.25.07:173][608]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:198][611]LogTemp: success
+[2018.11.07-17.25.07:206][612]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:231][615]LogTemp: success
+[2018.11.07-17.25.07:240][616]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:264][619]LogTemp: success
+[2018.11.07-17.25.07:272][620]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:297][623]LogTemp: success
+[2018.11.07-17.25.07:305][624]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:331][627]LogTemp: success
+[2018.11.07-17.25.07:339][628]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:364][631]LogTemp: success
+[2018.11.07-17.25.07:372][632]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:397][635]LogTemp: success
+[2018.11.07-17.25.07:406][636]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:431][639]LogTemp: success
+[2018.11.07-17.25.07:439][640]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:464][643]LogTemp: success
+[2018.11.07-17.25.07:473][644]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:498][647]LogTemp: success
+[2018.11.07-17.25.07:506][648]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:531][651]LogTemp: success
+[2018.11.07-17.25.07:539][652]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:565][655]LogTemp: success
+[2018.11.07-17.25.07:573][656]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:598][659]LogTemp: success
+[2018.11.07-17.25.07:606][660]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:630][663]LogTemp: success
+[2018.11.07-17.25.07:639][664]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:664][667]LogTemp: success
+[2018.11.07-17.25.07:672][668]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:697][671]LogTemp: success
+[2018.11.07-17.25.07:705][672]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:731][675]LogTemp: success
+[2018.11.07-17.25.07:739][676]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:764][679]LogTemp: success
+[2018.11.07-17.25.07:773][680]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:798][683]LogTemp: success
+[2018.11.07-17.25.07:806][684]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:831][687]LogTemp: success
+[2018.11.07-17.25.07:840][688]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:864][691]LogTemp: success
+[2018.11.07-17.25.07:873][692]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:898][695]LogTemp: success
+[2018.11.07-17.25.07:906][696]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:931][699]LogTemp: success
+[2018.11.07-17.25.07:940][700]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:965][703]LogTemp: success
+[2018.11.07-17.25.07:972][704]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.07:997][707]LogTemp: success
+[2018.11.07-17.25.08:005][708]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:031][711]LogTemp: success
+[2018.11.07-17.25.08:039][712]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:064][715]LogTemp: success
+[2018.11.07-17.25.08:072][716]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:097][719]LogTemp: success
+[2018.11.07-17.25.08:106][720]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:131][723]LogTemp: success
+[2018.11.07-17.25.08:139][724]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:164][727]LogTemp: success
+[2018.11.07-17.25.08:172][728]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:198][731]LogTemp: success
+[2018.11.07-17.25.08:206][732]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:231][735]LogTemp: success
+[2018.11.07-17.25.08:240][736]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:265][739]LogTemp: success
+[2018.11.07-17.25.08:273][740]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:298][743]LogTemp: success
+[2018.11.07-17.25.08:306][744]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:331][747]LogTemp: success
+[2018.11.07-17.25.08:340][748]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:364][751]LogTemp: success
+[2018.11.07-17.25.08:372][752]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:397][755]LogTemp: success
+[2018.11.07-17.25.08:406][756]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:431][759]LogTemp: success
+[2018.11.07-17.25.08:439][760]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:464][763]LogTemp: success
+[2018.11.07-17.25.08:472][764]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:498][767]LogTemp: success
+[2018.11.07-17.25.08:506][768]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:531][771]LogTemp: success
+[2018.11.07-17.25.08:539][772]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:564][775]LogTemp: success
+[2018.11.07-17.25.08:573][776]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:598][779]LogTemp: success
+[2018.11.07-17.25.08:606][780]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:631][783]LogTemp: success
+[2018.11.07-17.25.08:639][784]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:665][787]LogTemp: success
+[2018.11.07-17.25.08:673][788]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:698][791]LogTemp: success
+[2018.11.07-17.25.08:706][792]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:731][795]LogTemp: success
+[2018.11.07-17.25.08:739][796]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:764][799]LogTemp: success
+[2018.11.07-17.25.08:772][800]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:797][803]LogTemp: success
+[2018.11.07-17.25.08:806][804]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:831][807]LogTemp: success
+[2018.11.07-17.25.08:839][808]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:864][811]LogTemp: success
+[2018.11.07-17.25.08:872][812]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:898][815]LogTemp: success
+[2018.11.07-17.25.08:906][816]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:931][819]LogTemp: success
+[2018.11.07-17.25.08:939][820]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:964][823]LogTemp: success
+[2018.11.07-17.25.08:973][824]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.08:998][827]LogTemp: success
+[2018.11.07-17.25.09:006][828]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:031][831]LogTemp: success
+[2018.11.07-17.25.09:039][832]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:065][835]LogTemp: success
+[2018.11.07-17.25.09:073][836]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:097][839]LogTemp: success
+[2018.11.07-17.25.09:105][840]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:131][843]LogTemp: success
+[2018.11.07-17.25.09:139][844]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:164][847]LogTemp: success
+[2018.11.07-17.25.09:172][848]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:198][851]LogTemp: success
+[2018.11.07-17.25.09:206][852]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:231][855]LogTemp: success
+[2018.11.07-17.25.09:239][856]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:265][859]LogTemp: success
+[2018.11.07-17.25.09:273][860]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:298][863]LogTemp: success
+[2018.11.07-17.25.09:306][864]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:332][867]LogTemp: success
+[2018.11.07-17.25.09:339][868]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:364][871]LogTemp: success
+[2018.11.07-17.25.09:372][872]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:398][875]LogTemp: success
+[2018.11.07-17.25.09:406][876]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:431][879]LogTemp: success
+[2018.11.07-17.25.09:439][880]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:465][883]LogTemp: success
+[2018.11.07-17.25.09:473][884]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:498][887]LogTemp: success
+[2018.11.07-17.25.09:506][888]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:531][891]LogTemp: success
+[2018.11.07-17.25.09:539][892]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:564][895]LogTemp: success
+[2018.11.07-17.25.09:573][896]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:598][899]LogTemp: success
+[2018.11.07-17.25.09:606][900]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:631][903]LogTemp: success
+[2018.11.07-17.25.09:640][904]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:665][907]LogTemp: success
+[2018.11.07-17.25.09:673][908]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:698][911]LogTemp: success
+[2018.11.07-17.25.09:706][912]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:731][915]LogTemp: success
+[2018.11.07-17.25.09:739][916]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:764][919]LogTemp: success
+[2018.11.07-17.25.09:772][920]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:797][923]LogTemp: success
+[2018.11.07-17.25.09:806][924]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:831][927]LogTemp: success
+[2018.11.07-17.25.09:839][928]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:864][931]LogTemp: success
+[2018.11.07-17.25.09:873][932]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:898][935]LogTemp: success
+[2018.11.07-17.25.09:906][936]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:931][939]LogTemp: success
+[2018.11.07-17.25.09:939][940]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:965][943]LogTemp: success
+[2018.11.07-17.25.09:973][944]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.09:998][947]LogTemp: success
+[2018.11.07-17.25.10:006][948]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:031][951]LogTemp: success
+[2018.11.07-17.25.10:040][952]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:065][955]LogTemp: success
+[2018.11.07-17.25.10:073][956]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:097][959]LogTemp: success
+[2018.11.07-17.25.10:105][960]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:131][963]LogTemp: success
+[2018.11.07-17.25.10:139][964]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:164][967]LogTemp: success
+[2018.11.07-17.25.10:172][968]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:198][971]LogTemp: success
+[2018.11.07-17.25.10:206][972]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:231][975]LogTemp: success
+[2018.11.07-17.25.10:239][976]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:264][979]LogTemp: success
+[2018.11.07-17.25.10:273][980]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:298][983]LogTemp: success
+[2018.11.07-17.25.10:306][984]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:331][987]LogTemp: success
+[2018.11.07-17.25.10:339][988]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:365][991]LogTemp: success
+[2018.11.07-17.25.10:373][992]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:398][995]LogTemp: success
+[2018.11.07-17.25.10:406][996]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:431][999]LogTemp: success
+[2018.11.07-17.25.10:440][  0]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:465][  3]LogTemp: success
+[2018.11.07-17.25.10:472][  4]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:497][  7]LogTemp: success
+[2018.11.07-17.25.10:505][  8]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:531][ 11]LogTemp: success
+[2018.11.07-17.25.10:539][ 12]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:564][ 15]LogTemp: success
+[2018.11.07-17.25.10:572][ 16]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:598][ 19]LogTemp: success
+[2018.11.07-17.25.10:606][ 20]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:631][ 23]LogTemp: success
+[2018.11.07-17.25.10:639][ 24]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:665][ 27]LogTemp: success
+[2018.11.07-17.25.10:673][ 28]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:698][ 31]LogTemp: success
+[2018.11.07-17.25.10:706][ 32]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:731][ 35]LogTemp: success
+[2018.11.07-17.25.10:739][ 36]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:765][ 39]LogTemp: success
+[2018.11.07-17.25.10:773][ 40]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:798][ 43]LogTemp: success
+[2018.11.07-17.25.10:806][ 44]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:831][ 47]LogTemp: success
+[2018.11.07-17.25.10:839][ 48]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:864][ 51]LogTemp: success
+[2018.11.07-17.25.10:872][ 52]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:898][ 55]LogTemp: success
+[2018.11.07-17.25.10:906][ 56]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:932][ 59]LogTemp: success
+[2018.11.07-17.25.10:940][ 60]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:965][ 63]LogTemp: success
+[2018.11.07-17.25.10:973][ 64]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.10:997][ 67]LogTemp: success
+[2018.11.07-17.25.11:006][ 68]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:031][ 71]LogTemp: success
+[2018.11.07-17.25.11:039][ 72]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:064][ 75]LogTemp: success
+[2018.11.07-17.25.11:072][ 76]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:098][ 79]LogTemp: success
+[2018.11.07-17.25.11:106][ 80]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:131][ 83]LogTemp: success
+[2018.11.07-17.25.11:139][ 84]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:165][ 87]LogTemp: success
+[2018.11.07-17.25.11:173][ 88]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:198][ 91]LogTemp: success
+[2018.11.07-17.25.11:206][ 92]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:231][ 95]LogTemp: success
+[2018.11.07-17.25.11:240][ 96]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:265][ 99]LogTemp: success
+[2018.11.07-17.25.11:273][100]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:298][103]LogTemp: success
+[2018.11.07-17.25.11:306][104]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:332][107]LogTemp: success
+[2018.11.07-17.25.11:340][108]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:365][111]LogTemp: success
+[2018.11.07-17.25.11:372][112]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:397][115]LogTemp: success
+[2018.11.07-17.25.11:406][116]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:431][119]LogTemp: success
+[2018.11.07-17.25.11:439][120]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:464][123]LogTemp: success
+[2018.11.07-17.25.11:473][124]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:498][127]LogTemp: success
+[2018.11.07-17.25.11:506][128]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:531][131]LogTemp: success
+[2018.11.07-17.25.11:539][132]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:565][135]LogTemp: success
+[2018.11.07-17.25.11:573][136]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:598][139]LogTemp: success
+[2018.11.07-17.25.11:606][140]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:631][143]LogTemp: success
+[2018.11.07-17.25.11:640][144]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:665][147]LogTemp: success
+[2018.11.07-17.25.11:673][148]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:698][151]LogTemp: success
+[2018.11.07-17.25.11:706][152]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:732][155]LogTemp: success
+[2018.11.07-17.25.11:741][156]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:764][159]LogTemp: success
+[2018.11.07-17.25.11:772][160]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:797][163]LogTemp: success
+[2018.11.07-17.25.11:806][164]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:831][167]LogTemp: success
+[2018.11.07-17.25.11:839][168]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:864][171]LogTemp: success
+[2018.11.07-17.25.11:872][172]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:898][175]LogTemp: success
+[2018.11.07-17.25.11:906][176]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:931][179]LogTemp: success
+[2018.11.07-17.25.11:939][180]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:964][183]LogTemp: success
+[2018.11.07-17.25.11:973][184]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.11:998][187]LogTemp: success
+[2018.11.07-17.25.12:006][188]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:031][191]LogTemp: success
+[2018.11.07-17.25.12:040][192]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:065][195]LogTemp: success
+[2018.11.07-17.25.12:073][196]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:099][199]LogTemp: success
+[2018.11.07-17.25.12:106][200]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:132][203]LogTemp: success
+[2018.11.07-17.25.12:140][204]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:165][207]LogTemp: success
+[2018.11.07-17.25.12:173][208]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:197][211]LogTemp: success
+[2018.11.07-17.25.12:206][212]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:231][215]LogTemp: success
+[2018.11.07-17.25.12:239][216]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:264][219]LogTemp: success
+[2018.11.07-17.25.12:273][220]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:298][223]LogTemp: success
+[2018.11.07-17.25.12:306][224]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:331][227]LogTemp: success
+[2018.11.07-17.25.12:339][228]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:364][231]LogTemp: success
+[2018.11.07-17.25.12:373][232]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:398][235]LogTemp: success
+[2018.11.07-17.25.12:406][236]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:431][239]LogTemp: success
+[2018.11.07-17.25.12:439][240]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:465][243]LogTemp: success
+[2018.11.07-17.25.12:473][244]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:498][247]LogTemp: success
+[2018.11.07-17.25.12:506][248]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:531][251]LogTemp: success
+[2018.11.07-17.25.12:540][252]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:565][255]LogTemp: success
+[2018.11.07-17.25.12:573][256]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:598][259]LogTemp: success
+[2018.11.07-17.25.12:607][260]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:632][263]LogTemp: success
+[2018.11.07-17.25.12:640][264]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:664][267]LogTemp: success
+[2018.11.07-17.25.12:672][268]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:698][271]LogTemp: success
+[2018.11.07-17.25.12:706][272]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:731][275]LogTemp: success
+[2018.11.07-17.25.12:739][276]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:757][278]LogTemp: success
+[2018.11.07-17.25.12:765][279]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:790][282]LogTemp: success
+[2018.11.07-17.25.12:798][283]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:823][286]LogTemp: success
+[2018.11.07-17.25.12:831][287]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:856][290]LogTemp: success
+[2018.11.07-17.25.12:865][291]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:890][294]LogTemp: success
+[2018.11.07-17.25.12:898][295]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:923][298]LogTemp: success
+[2018.11.07-17.25.12:932][299]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:957][302]LogTemp: success
+[2018.11.07-17.25.12:965][303]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.12:990][306]LogTemp: success
+[2018.11.07-17.25.12:999][307]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:023][310]LogTemp: success
+[2018.11.07-17.25.13:031][311]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:056][314]LogTemp: success
+[2018.11.07-17.25.13:064][315]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:089][318]LogTemp: success
+[2018.11.07-17.25.13:098][319]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:123][322]LogTemp: success
+[2018.11.07-17.25.13:131][323]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:156][326]LogTemp: success
+[2018.11.07-17.25.13:164][327]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:190][330]LogTemp: success
+[2018.11.07-17.25.13:198][331]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:223][334]LogTemp: success
+[2018.11.07-17.25.13:231][335]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:257][338]LogTemp: success
+[2018.11.07-17.25.13:265][339]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:290][342]LogTemp: success
+[2018.11.07-17.25.13:298][343]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:323][346]LogTemp: success
+[2018.11.07-17.25.13:332][347]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:359][350]LogTemp: success
+[2018.11.07-17.25.13:367][351]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:391][354]LogTemp: success
+[2018.11.07-17.25.13:399][355]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:424][358]LogTemp: success
+[2018.11.07-17.25.13:433][359]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:458][362]LogTemp: success
+[2018.11.07-17.25.13:466][363]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:491][366]LogTemp: success
+[2018.11.07-17.25.13:499][367]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:525][370]LogTemp: success
+[2018.11.07-17.25.13:534][371]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:559][374]LogTemp: success
+[2018.11.07-17.25.13:567][375]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:592][378]LogTemp: success
+[2018.11.07-17.25.13:601][379]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:625][382]LogTemp: success
+[2018.11.07-17.25.13:633][383]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:658][386]LogTemp: success
+[2018.11.07-17.25.13:666][387]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:691][390]LogTemp: success
+[2018.11.07-17.25.13:699][391]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:725][394]LogTemp: success
+[2018.11.07-17.25.13:734][395]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:758][398]LogTemp: success
+[2018.11.07-17.25.13:767][399]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:792][402]LogTemp: success
+[2018.11.07-17.25.13:800][403]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:824][406]LogTemp: success
+[2018.11.07-17.25.13:833][407]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:858][410]LogTemp: success
+[2018.11.07-17.25.13:866][411]LogTemp: Error: sent 2 bytes
+[2018.11.07-17.25.13:967][423]LogTemp: success
+[2018.11.07-17.25.13:968][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.11.07-17.25.13:969][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.25.13:972][423]LogTemp: Error: sent 5 bytes
+[2018.11.07-17.25.14:014][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.07-17.25.14:015][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.11.07-17.25.14:035][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.07-17.25.14:072][426]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.07-17.26.03:995][769]LogSlate: Window 'XRM_plugin - Unreal Editor' being destroyed
+[2018.11.07-17.26.03:996][769]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.07-17.26.04:518][770]Cmd: QUIT_EDITOR

@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Building 3 actions with 8 processes...
+    [1/3] Module.XRmouse.cpp
+    [2/3] UE4Editor-XRmouse.lib
+       Creating library D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\UE4Editor-XRmouse.lib and object D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\UE4Editor-XRmouse.exp
+    [3/3] UE4Editor-XRmouse.dll
+       Creating library D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\UE4Editor-XRmouse.suppressed.lib and object D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\UE4Editor-XRmouse.suppressed.exp
+  Deploying XRM_pluginEditor Win64 Development...
+  Total build time: 245.98 seconds (Parallel executor: 244.27 seconds)

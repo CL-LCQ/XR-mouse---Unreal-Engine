@@ -1,0 +1,4 @@
+D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Source\XRM_plugin\XRM_plugin.Build.cs
+D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Plugins\XRmouse\Source\XRmouse\XRmouse.Build.cs
+D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Source\XRM_plugin.Target.cs
+D:\_Kodama\Product\software\xrm_unreal_plugin\unreal_plugin\XRM_plugin\Source\XRM_pluginEditor.Target.cs

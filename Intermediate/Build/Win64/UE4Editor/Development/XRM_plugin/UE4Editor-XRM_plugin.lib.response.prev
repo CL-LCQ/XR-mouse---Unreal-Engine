@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XRM_plugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\XRM_pluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_plugin.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_pluginGameModeBase.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_content_plugin.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_content_plugin.gen.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_plugin.init.gen.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\XRM_pluginGameModeBase.gen.cpp.obj"
+"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\PCLaunch.rc.res"
+/OUT:"D:\_Kodama\Product\software\unreal_plugin\XRM_plugin\Intermediate\Build\Win64\UE4Editor\Development\XRM_plugin\UE4Editor-XRM_plugin.lib"

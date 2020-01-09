@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\XRM_plugin.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F25C1599-FF38-403C-A0A2-DED3DE162300}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\XRM_plugin.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\XRM_pluginEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{FFBCE06D-1ADD-45B4-A7D1-1B7654E79B71}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Plugins">
+			<UniqueIdentifier>{EB6C13F3-D31B-40A1-96D7-6048DD3EA6D5}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\XRmouse">
+			<UniqueIdentifier>{6116B8ED-CB31-4C84-9F73-936BF39A8AD5}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\XRmouse\Source">
+			<UniqueIdentifier>{B2D1AE63-98BC-4E4D-8936-E5F852DF45DE}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\XRmouse\Source\XRmouse">
+			<UniqueIdentifier>{C006EB04-118D-4303-B41E-D2D810A56205}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\XRmouse\Source\XRmouse\XRmouse.Build.cs">
+			<Filter>Plugins\XRmouse\Source\XRmouse</Filter>
+		</None >
+		<Filter Include="Plugins\XRmouse\Source\XRmouse\Private">
+			<UniqueIdentifier>{EE40A7BB-11A6-4788-B097-AF08BF4C63F0}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Plugins\XRmouse\Source\XRmouse\Private\Serial.cpp">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Plugins\XRmouse\Source\XRmouse\Private\Serial.h">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Plugins\XRmouse\Source\XRmouse\Private\XRmouse.cpp">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\XRmouse\Source\XRmouse\Private\XRmouseBPLibrary.cpp">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Private</Filter>
+		</ClCompile >
+		<Filter Include="Plugins\XRmouse\Source\XRmouse\Public">
+			<UniqueIdentifier>{2CEB9BEE-084B-41D2-81AE-2FB13B38CBB7}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Plugins\XRmouse\Source\XRmouse\Public\XRmouse.h">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\XRmouse\Source\XRmouse\Public\XRmouseBPLibrary.h">
+			<Filter>Plugins\XRmouse\Source\XRmouse\Public</Filter>
+		</ClInclude >
+		<None Include="..\..\Plugins\XRmouse\XRmouse.uplugin">
+			<Filter>Plugins\XRmouse</Filter>
+		</None >
+		<Filter Include="Plugins\XRmouse\Resources">
+			<UniqueIdentifier>{84EEE302-3B46-4384-835D-7554C6E30954}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\XRmouse\Resources\Icon128.png">
+			<Filter>Plugins\XRmouse\Resources</Filter>
+		</None >
+		<Filter Include="Plugins\XRM_content">
+			<UniqueIdentifier>{21C5D19D-EA2F-46A1-9D6E-AA0C0B0F46B2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\XRM_content\XRM_content.uplugin">
+			<Filter>Plugins\XRM_content</Filter>
+		</None >
+		<Filter Include="Plugins\XRM_content\Resources">
+			<UniqueIdentifier>{47B3997B-9A12-46AE-A523-C18E1095B557}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\XRM_content\Resources\Icon128.png">
+			<Filter>Plugins\XRM_content\Resources</Filter>
+		</None >
+		<Filter Include="Source\XRM_plugin">
+			<UniqueIdentifier>{269A5178-07E0-4AFB-9B3A-ED54DEC32017}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\XRM_plugin\XRM_plugin.Build.cs">
+			<Filter>Source\XRM_plugin</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\XRM_plugin\XRM_plugin.cpp">
+			<Filter>Source\XRM_plugin</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\XRM_plugin\XRM_plugin.h">
+			<Filter>Source\XRM_plugin</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\XRM_plugin\XRM_pluginGameModeBase.cpp">
+			<Filter>Source\XRM_plugin</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\XRM_plugin\XRM_pluginGameModeBase.h">
+			<Filter>Source\XRM_plugin</Filter>
+		</ClInclude >
+		<Filter Include="Source\XRM_plugin\Private">
+			<UniqueIdentifier>{349C9566-CECF-429E-90B0-4B20759699C3}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\XRM_plugin\Private\XRM_content_plugin.cpp">
+			<Filter>Source\XRM_plugin\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\XRM_plugin\Public">
+			<UniqueIdentifier>{F7943E23-991A-4471-B60F-614A22A1FDE5}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\XRM_plugin\Public\XRM_content_plugin.h">
+			<Filter>Source\XRM_plugin\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
