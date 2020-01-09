@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XRmouse-2191.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_Kodama\Product\software\UNREAL\XRM_plugin_V0.1\XRM_plugin\Intermediate\Build\Win64\XRM_pluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\_Kodama\Product\software\UNREAL\XRM_plugin_V0.1\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\Module.XRmouse.cpp.obj"
+"D:\_Kodama\Product\software\UNREAL\XRM_plugin_V0.1\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\Module.XRmouse.gen.cpp.obj"
+"D:\_Kodama\Product\software\UNREAL\XRM_plugin_V0.1\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\PCLaunch.rc.res"
+/OUT:"D:\_Kodama\Product\software\UNREAL\XRM_plugin_V0.1\XRM_plugin\Plugins\XRmouse\Intermediate\Build\Win64\UE4Editor\Development\XRmouse\UE4Editor-XRmouse-2191.lib"
